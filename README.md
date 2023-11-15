@@ -40,30 +40,21 @@ Star UML
 
 ### UML Diagrams:
 
-## USE CASE DIAGRAM:
+## Use Case Diagram:
+![266758013-07b3fbb0-f04e-4ac7-b062-2092e23b8111](https://github.com/NaveenSivamalai/LAB-1-ATM/assets/123792574/f1e6b6c6-c572-4a5a-a2fb-271b8bdd824c)
+## Sequence Diagram:
+![266758071-59e43e3c-12c3-48d0-a4e8-fe7a9cd05fbb](https://github.com/NaveenSivamalai/LAB-1-ATM/assets/123792574/003295fc-2384-4661-bdb5-f43b74d48c00)
+## Class Diagram:
+![266758095-b93c385a-d600-40c1-9f30-28481430c3fe](https://github.com/NaveenSivamalai/LAB-1-ATM/assets/123792574/749fd63c-bef9-4e8b-bbf5-308877b25eaa)
+## State Chart Diagram:
+![266758121-69fd603f-1888-4d7a-a0e0-b7ecf6358aaa](https://github.com/NaveenSivamalai/LAB-1-ATM/assets/123792574/d623a72f-7dec-45d8-b403-5ac9792033f9)
+## Activity Diagram:
+![266758461-88e1b7d8-40d8-4b62-a651-be8bfb744ac5](https://github.com/NaveenSivamalai/LAB-1-ATM/assets/123792574/53ac021b-5f27-4053-b463-f903022c3786)
+## Communication Diagram:
+![269886443-f425dec5-f184-4bd0-907c-98e4d4b49cde](https://github.com/NaveenSivamalai/LAB-1-ATM/assets/123792574/79366e95-1050-46d0-a27f-9af373948c7b)
+## Package Diagram:
+![269886617-7c17b878-c568-46d8-a793-dff62211dbfc](https://github.com/NaveenSivamalai/LAB-1-ATM/assets/123792574/97989284-a0b1-48c5-992a-3478dbeb8722)
 
-![Screenshot 2023-09-15 143503](https://github.com/22008686/Library-Management/assets/118916413/f6ceb51f-0b85-49d8-ad52-4d46c6ffec90)
-
-## CLASS DIAGRAM:
-
-![WhatsApp Image 2023-09-15 at 1 27 44 PM (1)](https://github.com/22008686/Library-Management/assets/118916413/7e5c0377-6909-43cc-b175-3c41b158ec02)
-
-## ACTIVITY DIAGRAM:
-
-![activity 1](https://github.com/22008686/Library-Management/assets/118916413/799aa11d-9a82-41e4-9cd9-eccc38ee9625)
-
-## COMMUNICATION DIGRAM:
-
-![communicationdiagram](https://github.com/22008686/Library-Management/assets/118916413/e3967753-01ce-4aeb-92eb-7f747adf2c92)
-
-
-## SEQUENCE DIAGRAM:
-
-![WhatsApp Image 2023-09-15 at 2 27 23 PM](https://github.com/22008686/Library-Management/assets/118916413/5f36980a-18ed-45fe-8b04-049af9977dd1)
-
-## PACKAGE DIAGRAM:
-
-![package diagram](https://github.com/22008686/Library-Management/assets/118916413/c97b67db-7381-4439-99b8-db584769f303)
 
 ### RESULT:
 

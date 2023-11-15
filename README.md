@@ -2,7 +2,7 @@
 
 ### AIM:
 
-To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
+To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System
 
 ### PROBLEM STATEMENT:
 
